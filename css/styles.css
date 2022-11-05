@@ -78,3 +78,46 @@ a {
   display: flex;
   gap: 38px;
 }
+
+/* hero */
+
+.hero {
+  padding: 282px 0;
+  background-color: cadetblue;
+}
+
+.container {
+}
+
+.hero-text {
+  margin-bottom: 25px;
+  font-weight: 300;
+  font-size: 55px;
+  line-height: 1.2;
+  text-align: center;
+  color: #e9e9e9;
+}
+
+.hero-title {
+  margin-bottom: 29px;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.67;
+  text-align: center;
+  color: #e9e9e9;
+}
+
+.hero-button {
+  display: block;
+  width: 165px;
+  padding: 10px 0;
+  margin: 0 auto;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.56;
+  text-align: center;
+  color: #ffffff;
+
+  background: #28a745;
+  border-radius: 5px;
+}
